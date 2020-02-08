@@ -1,0 +1,13 @@
+body {
+	background: cyan;
+	height: 100%;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 3em;
+	line-height: 300px;
+	text-align: center;
+	color: yellow;
+	margin-top: calc(50% - 150px);
+}
